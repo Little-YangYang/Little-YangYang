@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-Visit more information in [my blog](https://www.endlcode.com)
-
 Contact me at  `admin#endlcode.com`
 
 To avoid spam email from robots, please change `#` to `@`, thanks!
